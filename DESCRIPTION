@@ -1,0 +1,11 @@
+Package: SchoolR
+Type: Package
+Title: SchoolR, a package for education research in Ontario, Canada
+Version: 0.1.0
+Author: CConley
+Maintainer: The package maintainer <chris@cconley.ca>
+Description: A compilation of functions, data and settings relevant to education research in Ontario
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
